@@ -6,7 +6,7 @@
 ## 技术架构
 总体：前后端分离 + 分布式微服务
 ### 后端：
-Springboot、 SpringMVC、 Gateway网关及负载均衡、 Nacos、 OpenFeign、 MySQL/MongoDB、 RabbitMQ、Redis、 阿里云OSS、 容联云短信服务、 微信登陆、 微信支付、 JWTtoken 等
+Springboot、 SpringMVC、 Gateway网关及负载均衡、 Nacos、 OpenFeign、 MySQL/MongoDB、 RabbitMQ、<br> Redis、 阿里云OSS、 容联云短信服务、 微信登陆、 微信支付、 JWTtoken 等
 
 ### 前端：
 管理员系统采用 Vue + Echarts + ElementUI + ruoyi
